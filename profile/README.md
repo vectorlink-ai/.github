@@ -1,6 +1,6 @@
-**VectorLink.ai** is an AI consultancy focused on utilising AI and ML for modelling, scalable solutions which make use of embedding vectors, and keeping everything tied closely with structured data. We like to focus on the use of Open Source Software solutions to ensure flexibility and cost savings for our clients.
+**VectorLink.ai** is an open source vector management component of TerminusDB for AI and ML use with historic hybrid search. It is a scalable solutions which make use of embedding vectors, and keeping everything tied closely with structured data in TerminusDB. 
 
-Our team has extensive expertise in: 
+Use cases: 
 
 * Creating vector embeddings from structured data for a range of problems
   * Semantic Search
